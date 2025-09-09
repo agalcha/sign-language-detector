@@ -43,5 +43,6 @@ Support multi-hand or multi-sign detection.
 Build a web app interface (e.g., Streamlit/Flask).  
 Export the model for mobile apps.  
 
-<pre> ```bash 🪄 Example Output 👉 Prediction: I_Love_You (96.3%) ``` </pre>
+# **🪄 Example Output** 
+<pre> ```bash Prediction: I_Love_You (96.3%) ``` </pre>
 ✨ Have fun teaching your computer new signs!  
