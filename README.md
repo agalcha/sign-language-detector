@@ -15,9 +15,9 @@ Perfect for experimenting with CV, ML, and interactive AI applications.
 Clone or open this notebook in Google Colab.  
 Run the setup cells (imports + environment).  
 **Use the buttons in the Control Panel:**  
-✍️ Start Data Collection → Capture your gestures.  
-🧑‍🏫 Train Model → Build a classifier for your signs.  
-🔍 Start Detection → Predict signs in real-time.  
+✍️ **Start Data Collection →** Capture your gestures.  
+🧑‍🏫 **Train Model →** Build a classifier for your signs.  
+🔍 **Start Detection →** Predict signs in real-time.  
 
 # **⚙️ Tech Stack**  
 Python 3 🐍  
@@ -43,6 +43,5 @@ Support multi-hand or multi-sign detection.
 Build a web app interface (e.g., Streamlit/Flask).  
 Export the model for mobile apps.  
 
-# **🪄 Example Output**  
-👉 **Prediction:** I_Love_You (100%)  
+<pre> ```bash 🪄 Example Output 👉 Prediction: I_Love_You (96.3%) ``` </pre>
 ✨ Have fun teaching your computer new signs!  
