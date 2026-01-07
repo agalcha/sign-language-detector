@@ -25,7 +25,7 @@ MediaPipe
 scikit-learn   
 Google Colab  
 
-## ** How It Works**  
+## How It Works
 **Hand Tracking →** MediaPipe extracts 21 key hand landmarks.  
 **Feature Engineering →** Normalized (x, y) coordinates become 42-dim vectors.  
 **Training →** A KNN classifier learns to map gestures → labels.  
