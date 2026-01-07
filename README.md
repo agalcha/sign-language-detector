@@ -5,11 +5,11 @@ Train your own signs (any gestures you like) and watch the model recognize them 
 Perfect for experimenting with CV, ML, and interactive AI applications.  
 
 # **🌟 Features**  
-📸 **Live Data Collection** – Capture your own hand gestures directly from your webcam.  
-🧠 **Custom Training** – Train the model on any set of signs you define.  
-⚡ **Real-Time Prediction** – Detect gestures on the fly with confidence scores.  
-🎛️ **Interactive UI** – Control data collection, training, and detection through Colab buttons.  
-🛠️ **Lightweight ML** – Uses a simple but effective KNN classifier under the hood.  
+**Live Data Collection** – Capture your own hand gestures directly from your webcam.  
+**Custom Training** – Train the model on any set of signs you define.  
+**Real-Time Prediction** – Detect gestures on the fly with confidence scores.  
+**Interactive UI** – Control data collection, training, and detection through Colab buttons.  
+**Lightweight ML** – Uses a simple but effective KNN classifier under the hood.  
 
 # **🖥️ Demo (in Colab)**  
 Clone or open this notebook in Google Colab.  
@@ -20,11 +20,11 @@ Run the setup cells (imports + environment).
 🔍 **Start Detection →** Predict signs in real-time.  
 
 # **⚙️ Tech Stack**  
-Python 3 🐍  
-OpenCV 🎥  
-MediaPipe 🖐️  
-scikit-learn 🤖  
-Google Colab ☁️  
+Python 3   
+OpenCV   
+MediaPipe   
+scikit-learn   
+Google Colab  
 
 # **🚀 How It Works**  
 **Hand Tracking →** MediaPipe extracts 21 key hand landmarks.  
@@ -35,7 +35,7 @@ Google Colab ☁️
 # **📂 Project Structure**  
 ├── asl_data/          # Collected CSV samples for each sign  
 ├── sign_language.py   # Core detection + training logic  
-└── README.md          # You're here!   
+└── README.md          
 
 # **💡 Ideas to Extend**
 Add CNNs or RNNs for higher accuracy.  
@@ -45,4 +45,3 @@ Export the model for mobile apps.
 
 # **🪄 Example Output** 
 <pre> ```bash Prediction: I_Love_You (99%) ``` </pre>
-✨ Have fun teaching your computer new signs!  
